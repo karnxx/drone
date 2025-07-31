@@ -5,7 +5,8 @@ this is a 6s analog fpv drone build. using geprc mark4 5" frame and speedy bee f
 made this to learn full fpv drone workflow. also wanted to fly without relying on dji stuff. cheaper and more flexible. goggles were hard but fun to figure out.
 
 ## 3D model of drone  
-<img width="1000" alt="3d_model" src="https://github.com/user-attachments/assets/a8ee4033-728a-443b-a3e9-d91c930de8cc" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/48fb4eb9-48d0-48e9-baef-c7e8f4947111" />
+
 
 ## goggles 3d model  
 <img width="1000" alt="goggles_model" src="https://github.com/user-attachments/assets/a55ce45a-aa79-49cf-ac6a-aee35bf223d0" />
